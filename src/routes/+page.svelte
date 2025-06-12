@@ -16,7 +16,15 @@
 	imageSrc="/sample.png"
 	generating
 />
-<LogoScroller label="" generating />
+<LogoScroller
+	label="Trusted by industry leaders"
+	logoUrls={[
+		'https://logo.clearbit.com/ars.com',
+		'https://logo.clearbit.com/aireserv.com',
+		'https://logo.clearbit.com/rotorooter.com',
+		'https://logo.clearbit.com/benfranklinplumbing.com'
+	]}
+/>
 
 <Summary
 	generating
